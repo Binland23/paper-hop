@@ -1,0 +1,17 @@
+{
+  "name": "Paper Hop",
+  "short_name": "Paper Hop",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f3df",
+  "theme_color": "#f8f3df",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

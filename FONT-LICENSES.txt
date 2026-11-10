@@ -1,0 +1,10 @@
+Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+http://scripts.sil.org/OFL
+
+Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar),  with Reserved Font Names "Gochi" and "Gochi Hand"
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at: http://scripts.sil.org/OFL
+http://scripts.sil.org/OFL
+
+Fonts are embedded subsets. Art and game illustrations are original procedural artwork.
